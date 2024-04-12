@@ -1,4 +1,4 @@
-# Web-Development-Projects
+# HTML-Portfolio
 The HtmlProject contains a website built using html5 elements.
 The index.html is full project I created about my personal website. Where I linked two extra pages leading to the About Me and Contaxt Me pages. 
 I understood how to link files as well.
